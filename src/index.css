@@ -32,5 +32,11 @@ body {
 .image{
   height: 100px;
   width: 100px;
+  border-radius: 4px;
   background-color: #ccc;
+}
+
+.cart{
+  display: flex;
+  flex-direction: column;
 }
