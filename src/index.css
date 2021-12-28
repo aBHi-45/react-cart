@@ -29,3 +29,8 @@ body {
 .action-icons:hover {
   cursor: pointer;
 }
+.image{
+  height: 100px;
+  width: 100px;
+  background-color: #ccc;
+}
